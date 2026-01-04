@@ -29,5 +29,5 @@ The goal of Helioscope is to reduce uncertainty around solar adoption by transla
 ---
 
 ## Demo
-- Short walkthrough here: https://www.loom.com/share/5979bc3107e44e08bba2a497c7239b0e
+- Short demo here: https://www.loom.com/share/5979bc3107e44e08bba2a497c7239b0e
 
