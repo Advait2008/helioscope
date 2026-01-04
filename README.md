@@ -13,7 +13,9 @@ The goal of Helioscope is to reduce uncertainty around solar adoption by transla
   - Potential energy generation
   - Carbon emission reduction
   - Approximate financial break-even time
-  - 
+
+---
+
 ## Notes & limitations
 - Irradiance and location data are currently hardcoded for select U.S. locations. Future iterations will integrate live APIs to support continuous, location-specific data (including India)
 - While I am comfortable building and iterating in code, this is my first time formally organizing a project on GitHub. I appreciate your patience if the repository structure reflects a learning curve rather than a lack of rigor.
