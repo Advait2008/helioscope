@@ -25,3 +25,9 @@ The goal of Helioscope is to reduce uncertainty around solar adoption by transla
 ## How to run
    - pip install -r requirements.txt 
    - streamlit run helioscopefinal.py
+
+---
+
+## Demo
+- Short walkthrough here: https://www.loom.com/share/5979bc3107e44e08bba2a497c7239b0e
+
